@@ -22,7 +22,7 @@ Este é um aplicativo simples de lista de tarefas desenvolvido em Kotlin com And
 
 1. Clone o repositório:
    ```bash
-   https://github.com/samurmsantos/To-do-list.git
+     git clone https://github.com/samurmsantos/To-do-list.git
 
 2. Abra o projeto no Android Studio
 
